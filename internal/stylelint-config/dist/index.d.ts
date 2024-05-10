@@ -1,0 +1,2 @@
+export * from "/Users/izheng/Documents/PMP项目管理系统/pmp-admin-web/internal/stylelint-config/src/index";
+export { default } from "/Users/izheng/Documents/PMP项目管理系统/pmp-admin-web/internal/stylelint-config/src/index";

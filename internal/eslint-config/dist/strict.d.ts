@@ -1,0 +1,2 @@
+export * from "/Users/izheng/Documents/PMP项目管理系统/pmp-admin-web/internal/eslint-config/src/strict";
+export { default } from "/Users/izheng/Documents/PMP项目管理系统/pmp-admin-web/internal/eslint-config/src/strict";

@@ -1,0 +1,1 @@
+import{d as s}from"./index.js";const a=t=>s.post({url:"/system/dict/create",data:t}),c=t=>s.post({url:"/system/dict/update",data:t}),d=t=>s.get({url:"/system/dict/read",params:t}),i=t=>s.get({url:"/system/dict/del",params:t}),o=t=>s.post({url:"/system/dict/getList",data:t});export{d as a,a as c,i as d,o as g,c as u};

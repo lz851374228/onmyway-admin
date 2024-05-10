@@ -1,0 +1,1 @@
+import{d as e}from"./index.js";const p=t=>e.post({url:"/system/dept/create",data:t}),a=t=>e.post({url:"/system/dept/update",data:t}),d=t=>e.get({url:"/system/dept/read",params:t}),o=t=>e.get({url:"/system/dept/del",params:t}),r=t=>e.post({url:"/system/dept/getDeptList",data:t});export{d as a,p as c,o as d,r as g,a as u};
